@@ -1,0 +1,31 @@
+h1{
+    color :blue;
+    border-color:burlywood;
+    /* background-color: chocolate; */
+   
+
+}
+p{
+    color :darkorange;  
+    text-align:center;
+}
+
+.header{
+    background-color: blueviolet;
+    display:flex;
+    justify-content:space-between ;
+}
+.header2{
+    display:flex;
+    justify-content:space-evenly;
+    }
+    .social{
+        display:flex;
+        justify-content:flex-end;
+    }
+    .Pong{
+display:flex;
+flex-wrap: wrap;
+justify-content:space-around;
+    
+    }
